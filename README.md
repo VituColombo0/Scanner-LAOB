@@ -71,6 +71,14 @@ O módulo utiliza o transceptor **MFRC522** conectado via barramento SPI a 3.3V.
 
 ---
 
+## Scanner antropométrico 3D
+
+A documentação técnica do scanner corporal 3D (RTX Anthropometric V8.2.5, 3× Orbbec Femto Mega,
+super-resolução CUDA e modelo de gordura corporal do AllBodyScan) está em
+[`docs/scanner-3d/`](docs/scanner-3d/README.md).
+
+---
+
 ## Licença
 
 Projeto desenvolvido para o Laboratório LAOB.

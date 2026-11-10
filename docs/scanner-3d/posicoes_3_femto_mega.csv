@@ -1,0 +1,4 @@
+camera,x_mm,y_mm,z_mm,alvo_x_mm,alvo_y_mm,alvo_z_mm,distancia_ao_alvo_mm,elevacao_graus,funcao
+FM-01,-1110,1100,-310,0,1100,0,1152.5,0.0,Lateral esquerda / entrada
+FM-02,1110,1100,310,0,1100,0,1152.5,0.0,Lateral direita / saida
+FM-03,0,2130,-280,0,1230,0,942.5,-72.7,Superior / entrada
